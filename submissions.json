@@ -1,0 +1,55 @@
+[
+  {
+    "id": "ref001",
+    "filename": "correction_tp1.py",
+    "original_content": "def fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)",
+    "processed": "def fibonacci ( n ) : if n <= NUM : return n return fibonacci ( n - NUM ) + fibonacci ( n - NUM )",
+    "file_type": "code",
+    "metadata": {
+      "source": "correction",
+      "year": 2025
+    }
+  },
+  {
+    "id": "ref002",
+    "filename": "article_reference.txt",
+    "original_content": "L'intelligence artificielle est un domaine en pleine expansion. Les techniques de deep learning permettent...",
+    "processed": "l intelligence artificielle est un domaine en pleine expansion les techniques de deep learning permettent",
+    "file_type": "text",
+    "metadata": {
+      "source": "cours"
+    }
+  },
+  {
+    "id": "php_controller_ref",
+    "filename": "Controller.php",
+    "original_content": "<?php\n\nnamespace App\\Http\\Controllers;\n\nabstract class Controller\n{\n    //\n}",
+    "processed": "namespace App Http Controllers  class Controller { }",
+    "file_type": "code",
+    "metadata": {
+      "source": "Laravel base controller",
+      "language": "PHP"
+    }
+  },
+  {
+    "id": "php_controller_ref",
+    "filename": "Controller.php",
+    "original_content": "<?php\n\nnamespace App\\Http\\Controllers;\n\nabstract class Controller\n{\n    //\n}",
+    "processed": "namespace App Http  ",
+    "file_type": "text",
+    "metadata": {
+      "source": "Laravel base controller"
+    }
+  },
+  {
+    "id": "428e3fac",
+    "filename": "mon_fichier.py",
+    "original_content": "test\n",
+    "processed": "test",
+    "file_type": "text",
+    "metadata": {
+      "auteur": "Prof Martin",
+      "cours": "Algorithmique"
+    }
+  }
+]
