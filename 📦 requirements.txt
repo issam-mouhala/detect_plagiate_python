@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+
+scikit-learn
+numpy
+nltk
+sentence-transformers==2.2.2
+
+Pillow
+imagehash
+python-multipart
+PyMuPDF
+python-docx
